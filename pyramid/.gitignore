@@ -1,0 +1,8 @@
+.vs
+.vscode
+.cmake
+build
+Cmake.dir
+CMakeFiles
+Debug
+x64
