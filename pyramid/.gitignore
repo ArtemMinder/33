@@ -5,4 +5,4 @@ build
 Cmake.dir
 CMakeFiles
 Debug
-x64
+*.txt
